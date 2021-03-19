@@ -58,4 +58,4 @@ title: kaz小说
 ### 一句破防，Kaz把头埋进臂弯里，过了许久，失声痛哭。
 ## 对不起，我没有站在你的角度考虑，没想过和我在一起你要承担多大的压力
 ## 写歌给她喊话。
-## 久别重逢：你在这里做什么？fuck不能让你就这样走掉，fuck，你等等绝不能，像上次一样。我还有很多话没说。"Do I still love you? Oh baby... I never stopped."
+## 久别重逢：what are you doing here? I won't let you run out on me like that... fuck,... hold on... I have to catch my breath... fuuuuck... I'm so thankful that you are wearing those heels... No. Don't you dare to move from this spot. We haven't seen each other in four years and this is how you want to do it? "Do I still love you? Oh, baby... I never stopped."
