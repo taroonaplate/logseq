@@ -67,3 +67,4 @@ title: kaz小说
 ## 写歌给她喊话。
 ## 久别重逢：what are you doing here? I  can't let her ... run away... not like this... I won't let you run out on me like that... fuck,... hold on... I have to catch my breath... fuuuuck... I'm so thankful that you are wearing those heels... No. Don't you dare to move from this spot. We haven't seen each other in four years and this is how you want to do it? "Do I still love you? Oh, baby... I never stopped."
 ## "Is it too early to say I loved you?"-太容易得到的东西， 便更容易失去。
+##
