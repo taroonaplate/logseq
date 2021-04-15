@@ -55,7 +55,7 @@ title: kaz小说
 ## 他叫她precious，她一怔：从没有人这么叫过我。(我也好像，从没有被人真心珍惜过。)我知道你在纽约长大，对美国人来说不过是随口就来的习惯称谓，但哪怕你只是嘴上打个滚，我也是真的开心的。
 ## 因为职业的关系她不喜欢戴戒指或项链，但很喜欢耳饰。工作的时候只戴耳钉，周末的时候就喜欢长长的耳环和耳链。周末的时候她也喜欢涂指甲、喷香水。她有很多香水，但常喷的就一瓶，一闻就是属于她的味道。她很喜欢他喷她喜欢的味道。他渐渐也会给她买耳环回来，她总是很高兴地戴上。但从没有见她带出去过。
 ### 除了最后，IG story道歉那里，她戴了他送的耳环。
-## I want to be able to see your vulnerability.  I want you to know it's okay to cry to me. I want to take care of you, hug you when you are in pain, cuddle you when you are down and feel betrayed. I want to be there for you when you expect no one to be. Because... because I love you.
+## I want you to feel comfortable showing your vulnerability in front of me.  I want you to know it's okay to cry to me. I want to take care of you, hug you when you are in pain, cuddle you when you are down and feel betrayed. I want to be there for you when you expect no one to be. Because... because I love you.
 ### 我没有和你谈过我前任的事情。那段感情其实我过得很不开心。一点没觉得被珍惜。他一直expect是我让步，觉得我可以被委屈。我的自尊心可谓被践踏得一点都不剩。很长时间都觉得我是不是真的不值得。不，哎呀不要这么看我，都过去那么久了，我愈合得也差不多了，真的没事了。只是，从这段经历上，我就学着不依赖人，不把希望寄托在别人身上，也不奢望对方会有什么真心。说爱太容易的人，收回它也很容易，if not easier。不，没有说你会变心的意思。也没有怀疑你现在真心的意思。只是，什么告白什么承诺，其实都只有当下是可信的。把希望寄托在未来这种虚无缥缈变动太大
 ## 回国之后他任性想昭告天下，但她斩钉截铁拒绝
 ### 他问”为什么不能公开？我们在巴黎时明明很好。
