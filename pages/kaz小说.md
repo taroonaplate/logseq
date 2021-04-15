@@ -71,6 +71,7 @@ title: kaz小说
 :END:
 ### I want you to feel comfortable showing your vulnerability in front of me.  I want you to know it's okay to cry to me. I want to take care of you, hug you when you are in pain, cuddle you when you are down and feel betrayed. I want to be there for you when you expect no one to be. Because... because I love you.
 #### 我没有和你谈过我前任的事情。那段感情其实我过得很不开心。一点没觉得被珍惜。他一直expect是我让步，觉得我可以被委屈。我的自尊心可谓被践踏得一点都不剩。很长时间都觉得我是不是真的不值得。不，哎呀不要这么看我，都过去那么久了，我愈合得也差不多了，真的没事了。只是，我说到哪儿了？哦，嗯，只是从这段经历上，我就学着不依赖人，不把希望寄托在别人身上，也不奢望对方会有什么真心。因为说爱太容易的人，收回它也很容易，if not easier。不，没有说你会变心的意思。也没有怀疑你现在真心的意思。只是，我觉得不管什么告白什么承诺，其实都只有当下是可信的。把希望寄托在未来这种虚无缥缈变动太大的事情上，本身就是把自己置于终有一天会失望的危险之中啊。我真的很喜欢你，也很高兴你也很喜欢我。但我不想用责任绑架我们之间的关系。我想要的是，此时此刻我们在一起，是因为彼此吸引，是因为在一起开心，而选择在一起。明天我还想和你在一起，也是因为一样的原因一样的心情。不要有负担不要有压力，这样难道不好吗？
+#### 也许你会觉得老土。但没有期望就不会有失望是真的。我们现在这样，难道就不快乐吗？
 ### this stupid need of holding on to the past
 ## 他赌气冷落她，
 ### 她本就因为担心他是荷尔蒙上脑不是真喜欢自己+没有自信而犹豫不决，这下更加验证她的猜测。逐渐她也心灰意冷。两个人许久没联络，关系几乎冷过刚认识的时候，那时好歹还有彼此试探的好感和真心的客套。
