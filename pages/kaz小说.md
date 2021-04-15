@@ -55,7 +55,7 @@ title: kaz小说
 ## 他叫她precious，她一怔：从没有人这么叫过我。(我也好像，从没有被人真心珍惜过。)我知道你在纽约长大，对美国人来说不过是随口就来的习惯称谓，但哪怕你只是嘴上打个滚，我也是真的开心的。
 ## 因为职业的关系她不喜欢戴戒指或项链，但很喜欢耳饰。工作的时候只戴耳钉，周末的时候就喜欢长长的耳环和耳链。周末的时候她也喜欢涂指甲、喷香水。
 ## I want to be able to see your vulnerability.  I want you to know it's okay to cry to me. I want to take care of you, hug you when you are in pain, cuddle you when you are down and feel betrayed. I want to be there for you when you expect no one to be. Because... because I love you.
-### 我没有和你谈过我前任的事情。那段感情其实我过得很不开心。一点没觉得被珍惜。他一直expect是我让步，觉得我可以被委屈。我的自尊心可谓被践踏得一点都不剩。很长时间都觉得我是不是真的不值得。到现在，我
+### 我没有和你谈过我前任的事情。那段感情其实我过得很不开心。一点没觉得被珍惜。他一直expect是我让步，觉得我可以被委屈。我的自尊心可谓被践踏得一点都不剩。很长时间都觉得我是不是真的不值得。不，没事，我很好了，都过去那么久了，我愈合得也差不多了。幸好我们没在一起多久，伤害也没有太大哈哈。
 ## 回国之后他任性想昭告天下，但她斩钉截铁拒绝
 ### 他问”为什么不能公开？我们在巴黎时明明很好。
 ### 你是偶像，对你会有影响。
