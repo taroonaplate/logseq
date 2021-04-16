@@ -68,6 +68,7 @@ title: kaz小说
 #### - you need to let me know next time you have a bad dream or you can't fall asleep.
 #### - what are you gonna do about it? You need your rest too. I didn't want to be a nuance.
 ### 生病了虽然没去上班但还是工作了。疼到不行，还是记得自己叫了外卖，先垫了一点才吃药。抱了个热水袋，躺到床上去睡了。
+#### 联系她没回，他担心于是过来看看。
 #### 发现她家备着齐全的常用药。尤其是止痛药，都吃了不少。
 #### “她是不是生病的时候，都是这样自己一个人挺过来的？”
 ###
