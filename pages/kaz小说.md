@@ -67,7 +67,7 @@ title: kaz小说
 #### - it's fine. I just needed to drink some water.
 #### - you need to let me know next time you have a bad dream or you can't fall asleep.
 #### - what are you gonna do about it? You need your rest too. I didn't want to be a nuance.
-### 生病了虽然没去上班但还是工作了。自己叫了外卖，吃了一点才吃药。攥着手机躺到床上去睡了。
+### 生病了虽然没去上班但还是工作了。自己叫了外卖，先垫了一点才吃药。攥着手机躺到床上去睡了。
 #### “她是不是生病的时候，都是这样自己一个人挺过来的？”
 ###
 ## 关于她的细节
