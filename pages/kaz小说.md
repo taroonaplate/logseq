@@ -67,6 +67,8 @@ title: kaz小说
 #### - it's fine. I just needed to drink some water.
 #### - you need to let me know next time you have a bad dream or you can't fall asleep.
 #### - what are you gonna do about it? You need your rest too. I didn't want to be a nuance.
+###
+###
 ## 关于她的细节
 ### 因为职业的关系她不喜欢戴戒指或项链，但很喜欢耳饰。工作的时候只戴耳钉，周末的时候就喜欢长长的耳环和耳链。周末的时候她也喜欢涂指甲、喷香水。
 #### 她有很多香水，里面有一瓶是她的go to，也是他们初夜那晚她穿的。那天他拿起那个瓶子端详，发现原来是她25岁那年送给自己的生日礼物，上面写着，remedy for quarter-life crisis。
