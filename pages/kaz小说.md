@@ -68,7 +68,7 @@ title: kaz小说
 #### - you need to let me know next time you have a bad dream or you can't fall asleep.
 #### - what are you gonna do about it? You need your rest too. I didn't want to be a nuance.
 ### 生病了虽然没去上班但还是工作了。自己叫了外卖，吃了一点才吃药。攥着手机躺到床上去睡了。
-#### “她生病的时候，是不是都是这样，自己一个人挺过来的？”
+#### “她是不是生病的时候，都是这样自己一个人挺过来的？”
 ###
 ## 关于她的细节
 ### 因为职业的关系她不喜欢戴戒指或项链，但很喜欢耳饰。工作的时候只戴耳钉，周末的时候就喜欢长长的耳环和耳链。周末的时候她也喜欢涂指甲、喷香水。
