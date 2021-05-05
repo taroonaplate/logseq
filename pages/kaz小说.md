@@ -82,6 +82,7 @@ title: kaz小说
 ##### - it's fine. I just needed to drink some water.
 ##### - you need to let me know next time you have a bad dream or you can't fall asleep.
 ##### - what are you gonna do about it? You need your rest too. I didn't want to be a nuance.
+#### 明明与他有最多的话想说，却也与他有最多的话不可说。
 #### 生病了虽然没去上班但还是工作了。
 ##### 联系她没回，他担心于是过来看看。
 ##### 生着病在床上躺着，但一切都处理得稳妥停当
