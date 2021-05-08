@@ -18,4 +18,4 @@ title: CDE prep
 ## page s155 for NPH who can and cannot lower A1C by 0.5%
 ### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca00d3a99e-b332-401a-bee9-e2951ea601fd2021_05_08_image.png?Expires=4774090971&Signature=E9-QF20HiX80JtszDoNcIuSBLCr8fMd73drfUbI7GAq0IuYbRwB8UPjkkY9nthM9qO8eEQ8w48yv~R66aMwoZ2vBrp0ZaTBGJnvhO-Nx7WiZRLAfYStzyjY-LMQCj4z-MML5G75bQX4veX8E3SEqUsf6B3QVPfPff5G-1FqB6-Q7rucgNlNk7ueS5BPK~Jh6oCviS1tz6arTvK0xQEKuPDDfXmizj11T3bhSbMVxBdTe-qEjDZL-zi9BhnraEaYfTmoXaVeM4g0dUnK2ePbKheUavELbSVAqGHkNRM5-sQxpQxLnzOt~7vQaTSW3vNxIS0b4jNYrGwLttGXGnV-F-Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## risk factors for neuropathy: high BG, high TG, high BMI, smoking, HTN
-## caffeine -> hypo unawareness (by stimualting epinephrine)
+## caffeine -> improves hypo unawareness (by stimulating epinephrine)
