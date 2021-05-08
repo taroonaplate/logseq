@@ -41,3 +41,4 @@ title: CDE prep
 ## [[Attempt results]] Exam 1 attempt 1 finished 10:19
 ## start exam 3
 ## SGLT- 2 inhibitors rarely can cause diabetic ketoacidosis. (related to dehydration)
+## the most common adverse effect of insulin therapy in T1DM is hypoglycemia.
