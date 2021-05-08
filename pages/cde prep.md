@@ -45,3 +45,5 @@ title: CDE prep
 ## diabetes confers +15 years of aging in terms of CVD
 ### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caa755be5c-02e6-4ace-80c6-463381b6a91c2021_05_08_image.png?Expires=4774116870&Signature=f~LW5rTa7RKOyv5xuVx0TqKcNS9YRTwj6N-GT7F9g5FA3bmxIAXG8ViJ1igUEarCxDMdaQkQ7wS1H~of0ZO1IGlkJe~Uy34k5zMM6Hn32dUdh6S5cfVKxihVrCgaPZqidDnhk0UP9jazuLupeakjDQY1c9l11exe55-x9wCl-V1eFBx-fhSV~z~CE2FEIui7q3ScrdXWMSCSyuOCArgUDGUraX9XbcLyusAi2h1a3u2~fKyxkwcCwhbdkbBoFYie9z8Wj6U0ek4NQPSOCrF7r275vHqPdbRDI2wplNqJaHGgIroLtoCxN-WdVDJZrhpLsks1ypg11n~3ziweMt2Hpw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## liraglutide side effects: nausea and GI upset
+### Saxenda= 1.8mg, covered by most drug plans
+### Victoza= 3.0mg/max dose, usually not covered
