@@ -19,3 +19,9 @@ title: CDE prep
 ### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca00d3a99e-b332-401a-bee9-e2951ea601fd2021_05_08_image.png?Expires=4774090971&Signature=E9-QF20HiX80JtszDoNcIuSBLCr8fMd73drfUbI7GAq0IuYbRwB8UPjkkY9nthM9qO8eEQ8w48yv~R66aMwoZ2vBrp0ZaTBGJnvhO-Nx7WiZRLAfYStzyjY-LMQCj4z-MML5G75bQX4veX8E3SEqUsf6B3QVPfPff5G-1FqB6-Q7rucgNlNk7ueS5BPK~Jh6oCviS1tz6arTvK0xQEKuPDDfXmizj11T3bhSbMVxBdTe-qEjDZL-zi9BhnraEaYfTmoXaVeM4g0dUnK2ePbKheUavELbSVAqGHkNRM5-sQxpQxLnzOt~7vQaTSW3vNxIS0b4jNYrGwLttGXGnV-F-Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## risk factors for neuropathy: high BG, high TG, high BMI, smoking, HTN
 ## caffeine -> improves hypo unawareness (by stimulating epinephrine)
+## I have no idea how i got this correct..
+### TODO to review
+:PROPERTIES:
+:todo: 1620492374064
+:END:
+### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caf680aea9-2c69-4b3c-b2c0-95a7673c232d2021_05_08_image.png?Expires=4774092366&Signature=ElqhvlDOJzL7YgxqaBEWsrkFlSzdOdFxYy9SvjIRiHTpBpqMbnWUXfVBpvzDDgb3VgIQsAeVkDniR0rJALa6VEgt9yeDfKT3YC8uXQIztJPcERm5RcWHMFQj7vnxGd6bYOITKHjJOyQ1G6HrGMLRFwaUcYCt1lBd9xD1vu1H0dOgBWPOfZ92jXbHRnA0d8cY1qDOQtfoVu49Yl8XE0oG8r0cuL6RN7WSLMfcaiiNOu76u7eWPkUmgdF2TXmQPbJHcJqey56TN~uChk93jwBs7tY9l~hG~D8U2~SR4bpriCu1uGMEkjIU4rvsD2NF0443-twAwXdt0R0KPb6uqswCaw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
