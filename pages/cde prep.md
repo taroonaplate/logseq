@@ -34,3 +34,6 @@ title: CDE prep
 ## SGLT-2 protects the kidneys?
 ## what???
 ### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caf2e40b53-1c8d-43a2-bc7e-ca18c921a2002021_05_08_image.png?Expires=4774094138&Signature=LUmaUTVPpgbGqtNJaEOhmwjCjYEuLRp3npbzrmrtf1peoPc3ilHKsFs0CZAjP3wZnERlGqooHUUSD1gTte~n6p6frUN2qJcKp3MceWID~wRQD0eTI5D5fTXuHJnP09N1xMeo5nnli8YUVxnq9gw8cvhnBBROxWiPIKgdDzy-QLTp~2l9kN46Kzzi5yEBGIywm3aUaXDJFUcLXa4Fv2az~xYcBnBWpNjeAfGzIwzVRwcUJf5TMG4h4Tt4Gp7wIPpuGPyAiVCelopt-GLzmfdAFZQzzJfu0B9Y4~1sg9JDr2kyHYpsxfp5ZIpUnI4vcJu2G-G52lYzJD14Kx7~OZ2~jQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## fibre in diabetes
+### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca1bcc7f4e-9334-4bb1-ad6f-8c93d1e2339d2021_05_08_image.png?Expires=4774094287&Signature=As-Q0Ui4cN9Qp20fCw59UNwSsyTWExUfXPro6OdPCQA5bzLvjfIsGtNsbjAVH~BeKXGx7sxW2ExQFx97rMd7ATc8Y6zhvvCAVEnk2FNE2bGVSea7D7OgpijG2Yx5RgK3C9dYAqLRPuQY5-T0UX3uu9R0xha2JtmLEqBOENR6Y7jbWGGfzFX6VI9biYXrp915A~GgzECRgum1Bx4q2pHpyzrMnjGEphRFcCoPRxVEzNYjV~zmy50z~PMTGNRYXn6Esrh5WQnJj~u~TO2LBxcLwUmcONCWXtbSdLioIVFkncCSBG0bv~LEzcvLqPE5MP7tEYeeXhm4Fq8aTR0-4CAaBg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+###
