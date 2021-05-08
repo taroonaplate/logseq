@@ -25,3 +25,6 @@ title: CDE prep
 :todo: 1620492374064
 :END:
 ### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caf680aea9-2c69-4b3c-b2c0-95a7673c232d2021_05_08_image.png?Expires=4774092366&Signature=ElqhvlDOJzL7YgxqaBEWsrkFlSzdOdFxYy9SvjIRiHTpBpqMbnWUXfVBpvzDDgb3VgIQsAeVkDniR0rJALa6VEgt9yeDfKT3YC8uXQIztJPcERm5RcWHMFQj7vnxGd6bYOITKHjJOyQ1G6HrGMLRFwaUcYCt1lBd9xD1vu1H0dOgBWPOfZ92jXbHRnA0d8cY1qDOQtfoVu49Yl8XE0oG8r0cuL6RN7WSLMfcaiiNOu76u7eWPkUmgdF2TXmQPbJHcJqey56TN~uChk93jwBs7tY9l~hG~D8U2~SR4bpriCu1uGMEkjIU4rvsD2NF0443-twAwXdt0R0KPb6uqswCaw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## when could glucagon injection fail?
+### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097cac13f9b8e-516d-42f7-9a60-f9141b9041492021_05_08_image.png?Expires=4774093603&Signature=Ut8NoALy6PHRhveY4nTja4y6GATCLY2Hhiw6ioX1uZ2MJURBD7XFFhmO6~Gsa1bcdRLNn8gZvCiSpHgo~bVo0ivY1SBIhvpICFG8Yj3UyYjKepCjMywdd1SybKIDuIyc62kHB~ziuCsp3bF-LIK0F5FchvtaK4spmn~wKbNUsMb7HHWievE60biNrkxj~wnpIf0xvj8VelAu-bBA2AfI2XK6dh~JHaS0IHFG3BQWdTksFz4DUPkXSjdCi--pSdd352l2Tbv0xXG8jheNeQ2Zi7QFz87MKlz-d250q2WFixj-XFpXdbbaKwjFDdM6mHE8zRR6n53vElxG~LLaFG15qQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+###
