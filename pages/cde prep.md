@@ -2,5 +2,6 @@
 title: CDE prep
 ---
 
-## ![2021_05_07_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca56936d5d-a688-4dc8-ae99-96412613a9252021_05_07_image.png?Expires=4774055996&Signature=BQwx2y4-FL~GlvzSK-VXAJh5QgMRORCD8Ro-RiHM59hBoGuSfxQoNrk0teWkdiL2XDbutbbjBVQYkksG9TD1Jgncei1OHlx9styRbPcIIO~3VUp9NB4eK8AzhJQXT4EN2GyEBcN4WhxWLSQP-gFJ42vujUMSUcDZevSToXVxUYFkss~km~15OhTIJ1cq9gI4sKaDHVpei1aSdzCklKgHR8ig360fKHIOPvAySO2HxUNWVbg2CDxR1ksVNerin6ZPufAR5pzG45U5g5HNUxIq9CFpyEPm80o25lOfQl99i~pdyattPAU3ikshGhuDMaF4eZH8noFn2YWkT0JeGN9cgw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA) 
+## additional carbs vs exercise intensity
+### ![2021_05_07_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca56936d5d-a688-4dc8-ae99-96412613a9252021_05_07_image.png?Expires=4774055996&Signature=BQwx2y4-FL~GlvzSK-VXAJh5QgMRORCD8Ro-RiHM59hBoGuSfxQoNrk0teWkdiL2XDbutbbjBVQYkksG9TD1Jgncei1OHlx9styRbPcIIO~3VUp9NB4eK8AzhJQXT4EN2GyEBcN4WhxWLSQP-gFJ42vujUMSUcDZevSToXVxUYFkss~km~15OhTIJ1cq9gI4sKaDHVpei1aSdzCklKgHR8ig360fKHIOPvAySO2HxUNWVbg2CDxR1ksVNerin6ZPufAR5pzG45U5g5HNUxIq9CFpyEPm80o25lOfQl99i~pdyattPAU3ikshGhuDMaF4eZH8noFn2YWkT0JeGN9cgw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
