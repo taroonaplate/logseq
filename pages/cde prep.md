@@ -15,3 +15,5 @@ title: CDE prep
 ## how to use the 10g monofilament to screen for diabetic neuropathy
 ### appendix 11A
 ### ![2021_05_08_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca1ffc707b-d877-4601-891d-bd55d901aff92021_05_08_image.png?Expires=4774089481&Signature=bYffMSqf9dJGOkI1bnT8VTeeKASIs4Xs5WVqGo7l3rcOY3E7Y-QjQ4gE2RZUNY8SrkiB3EdHH2vRi9AeHqR6N0SXFqb-UaOuuul-QDOLKfTgxy66jmS2AqxLYNDoXhMsEgPltpiTEvf2C5cskO61r90CNGj2H4CERdjMHHHSRMXAMncOZipnbvf1VfeQnX7p-hvjfJYyo0oOTCt0z7bpU3SpnR2zBTgIF7uAvVqZd0cjqNgKo9a5S70nskfH29NRKM~~vKDOI-O-DPG-YM7JMX8nAISPkcE1bQxySwBm4uS9zjTi1a3Yh7x~TcJj2ST4vS4tqqQEGTsA~2w~n4czlw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## page s155 for NPH who can and cannot lower A1C by 0.5%
+###
