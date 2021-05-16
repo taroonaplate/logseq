@@ -59,4 +59,5 @@ title: CDE prep
 ### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caf6cc1e41-4a38-440f-b495-bb0ef3eefd312021_05_16_image.png?Expires=4774803684&Signature=GVZbCcpqwKMo0iFlIs3AjUccvZMCMaWUBmIoPg-9ZVOj-vWNbMOGV5r-7UYim1EP4vFXDCmoyPRyWLxCjke5jKRoNwWb1-StdmUaLFb5DFsy5~tCilk5Ir7rjsRKsrvlHUwvmoV5Ul9zmAFMyMN5IcgQAbLZfvn8kC5xZXofaLofvSLB3yJ7RXNUMvZ5CwTfwq50bo~WZiajonaVXLcDHkHlenlk5ODVhMk4Zesh9enBQoogX2p5vBZSfLhHfRRpNTcXGVm~DT0bphubhuErJVISO5BuS3YgevkRwwXFOh9D0UNElVHuqdOBwdEfiH~lAGY-vwjyKbe0eCg-ckvSDg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## GLP-1 analog frequency
 ### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca3fb9bbc5-b307-43f9-b253-cc175a80abb02021_05_16_image.png?Expires=4774805222&Signature=RTri8X42qYvdjVqykHwdudlxKouxICInPODr~07~HPLt-F9tR3ommMseMhtd15BZniH8fB0qvBhNQHms8eQktjlWfqconICp7S~AcwS4-Wq0i1INW5qEcbdSJrf8ZxVtC-98XP8wDG4xK2rWehUmiqKT5UygprOBdIWVL-bLHIcXamh0md6o~ccEivHby2JkURtFNQ0L-LuaSJZGINPmH0KLmqL4CrT5oFPAe1gAcnZDKBJGaxIM2C1-TwhI6am39ENyq-5BfYem7SbdjzmxnJn5d14Wa4f0Jpf8XVJpXrL1RF167crTJ8HykLGYrQBgZ1Nxq7HGa-9Q6qklVc0OqQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## types of insulin
 ###
