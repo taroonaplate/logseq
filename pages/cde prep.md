@@ -55,4 +55,5 @@ title: CDE prep
 ##
 ## A1C is a better predictor of CVD than FBG or 2hr pc
 ## Insulin pen
+### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca364e3006-5980-4fd4-8a8c-d031740e7f7d2021_05_16_image.png?Expires=4774803664&Signature=KjsTjh~s5yukKSwrge2I7zIEvP7LRVz5kxAaFXfMh4qwO~KUUIiCjusOHGvNBzHImLrHMg-DwLlpXf4DyKc4MOW~ITLAjOajYQpOZ2lwYboI97rwonmMDZSe9tHMoxJSwNsww4shs52H~tfsjRsNXKtVl7zoJ147jOwoHskOFXVcNyu68l8j7WPhZ2jHQs44MBSfIFh2t8QI~Dn7kT7btC-NGAWQnTlUC4-CemwNTjfd3iwuJ0cMZRU4Ot~ZQnUsupYZLfuh8YLyd1REtGHNHU7~pNvjRRNW8eXb2xQQN1FnmWHXvj-u3oHO~YEpZQK~0r5ioV4QUfvP-nxqnzPUmw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ###
