@@ -48,3 +48,5 @@ title: CDE prep
 ### Saxenda= 1.8mg, covered by most drug plans
 ### Victoza= 3.0mg/max dose, usually not covered
 ## ACE and ARB increase risk of congenital malformations
+##
+##
