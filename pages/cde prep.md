@@ -63,4 +63,5 @@ title: CDE prep
 ### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097cabfaec3ca-b0a3-477b-97d9-bd0c6fd88a992021_05_16_image.png?Expires=4774807395&Signature=Za9KPRtJX9TqX7xabNIBxqmQ87~WwZHtENMejUGCU2Pn~WjKlilTjNM7WnBsX7A7lcKYrKzDk2YXPLBIF-taix4YFDNeJjna4DvBdJ7GhSvv2Xuy2GLa5uaLmVZh-4NqR2hlwBpiGpnNmF7hzoB~4mZREy07GTWC5D0g3k9f8LHzgmAn~~OYJvceuh2~kcmHaysM-fo5iNgqnEJMJfp9HSjsqehQ5X7g3Itq3prSGTujZu-kzX53Lfm6L5jQ5v1zc0VyfoUK5NHW5JnlMICuGt-1pJpZ1sNC15j1rI2zoODS12J0OBpJXKKvH5Q0oT5H9LhiVKq1Ur-GYJP1rfvBlQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## weight loss and AHA
 ### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caa3f8370a-bfe0-46d4-b0ed-a987c471480e2021_05_16_image.png?Expires=4774807767&Signature=hoPi1BM6NfsQARZLdoiGERqsVsCqxwAFNA~nghe9~9hGgFhuujq8VMoj8QBvD9X-xsLqbJZ1UtP16~w0hOdFzHEnjhXToHHviKsnE05~sZF5B8EW4sheSwBncv5e15QzxRhknlBxV4crlZVJvf~DWLIqpX1iYQNTJBvmJfzuxxFclKfXs257qzshXVwrslspxtD6SteOOWjdaj17FwIao0NlIItBwFiNVKS6EtAQMZKuknXjDf03XLQdXQTj5vtAAMclMMPLhtAb~4jvvfYRb3kq4W~uliktx4DDqeIICSTsbQV5T6zJRlogVOFFAvp82sHr9JBZZIN64-ftje9jpQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-## did you know that
+## did you know that generally people with DM do not need to avoid alcohol?
+###
