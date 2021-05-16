@@ -50,3 +50,5 @@ title: CDE prep
 ## ACE and ARB increase risk of congenital malformations
 ##
 ## PDE5 inhibitor is contraindicated for unstable angina and nitrate therapy
+##
+## CKD dx: eGFR <= 60mL/min and 2 out of 3 ACRs need to be >= 2.0
