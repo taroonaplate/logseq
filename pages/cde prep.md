@@ -49,4 +49,4 @@ title: CDE prep
 ### Victoza= 3.0mg/max dose, usually not covered
 ## ACE and ARB increase risk of congenital malformations
 ##
-##
+## PDE5 inhibitor is contraindicated for unstable angina and nitrate therapy
