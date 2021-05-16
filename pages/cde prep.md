@@ -52,3 +52,6 @@ title: CDE prep
 ## PDE5 inhibitor is contraindicated for unstable angina and nitrate therapy
 ##
 ## CKD dx: eGFR <= 60mL/min and 2 out of 3 ACRs need to be >= 2.0
+##
+## A1C is a better predictor of CVD than FBG or 2hr pc
+##
