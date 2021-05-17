@@ -66,3 +66,4 @@ title: CDE prep
 ## did you know that generally people with DM do not need to avoid alcohol?
 ### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca75fdceb8-9dc3-4162-b13c-5c957197bc482021_05_16_image.png?Expires=4774808702&Signature=T9mT3bIdvcwIAvis7BjLTzNhgPR-GFkTSNVJuEKmUNu8ICqAL9Qs04yDf5I2hYu1dFHjeGYLsF7ow-LiSUBIVJ~sNE2Z6eRqmSJIGhYBB~s18GMfhbhJdNX0noYfX~8eiayDUT75jUBvCVmpkSmquZpJhKP9aCM0x5fGlPsdou356EvML6YSs7gJ2RtWAPweX3-tkhxfDStU99D8cTU3OphycgUJXzSkL89fGXZjq6KCGU6Ig2UW9F8kq-yIIPaY4KMYpTy4yizmf1Ch-C5Gde5k0AdSt7Dhzsuo414sV7QyGCZbiwFMx25fBjI0d1EjyWXjwyWPI1yeYxfl~3Mkzg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## SGLT-2 inhibitor can increase the risk of DKA, though rare
+##
