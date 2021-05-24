@@ -76,4 +76,5 @@ title: CDE prep
 ## frequency of GLP-1 analogs: dutaglutide is the one that can be used once weekly
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca7096354e-d835-4aca-a217-ec095df0c1f32021_05_24_image.png?Expires=4775475347&Signature=TeFWJm7Pe2JBzE2POmZXm4xEg74ltBfafeSwqSkejvWHlAMX~navM2Zhzrn70~~mqNJyQbGTwEBeMBVJJCvJPS0Rswmw0~ZN7HbCqIrchDKmamW1Bn7FTteDTujyvqEfLrh84IcKFA7s2yMQA17X7o8C2DiSGpqjrjAA~DvkYvC4~iOI1RbDgnDeNmO~sueWu7jU-JOcG0DNR81LuTHj8I4HgoU05cbaKrbo4jYvcWiju4V1YsrAGWs6rwB~xbFsD8hGBNDhs7hYkMpYbs0yh0vkQbx9nn0BAR7LYi4n1F9epmfQIDljMzleClBUK~~RpXSByZjfvRuDZll4GoZZvQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## insulin should be stored at 2-8 degrees
+## convert mg/dl (usa readings) to mmol/L (canada readings): canadian readings x 18
 ##
