@@ -84,3 +84,4 @@ title: CDE prep
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caea903ab1-6c6b-4b2e-a1d4-8b35770ee5032021_05_24_image.png?Expires=4775486193&Signature=T3eGOeKR9jTnIMT0h369R24ikDHfSuolJAwfKYdZYKpuGP3JQ3LN2UKe9k8RyhdfV-HxKfULHbNpa9W-z7vXmdJq3bEbf9o6JBvj9Z-JnGMEDgNT0YJJDAylBLBPevgNl0qCWExYDUHZ2gFMd2UgTz2jE-Fbow4RxECvgtNfARys-hzerF6Y4MLKGhWVbDOEJiBFs0mL0ltkp04p86mze7nXvbmXQ-3ABQANFyaDR6B9SQPBm~KLhL~acnf3F5og~eyFxhB2eTNUauDexuzRj46wx6t0AGd7CO3~z0o-f5R1D2HkCMmDjIF4fuvgWsoS3IkJhVIH0VGtXhI6t6kudg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## weight gain of antipsychotics
 ### clozaril (clozapine) and Zyprexa (planzapine) cause the most wt gain: on average over 6kg over a year
+## out of all the sulfonylureas, gliclazide is associated with the lowest risk of hypoglycemia
