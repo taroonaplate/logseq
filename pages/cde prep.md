@@ -80,4 +80,5 @@ title: CDE prep
 ## in children's DKA, hydrate via IV before giving insulin to decrease the chance of cerebral hemorrhaging.
 ## All SGLT-2 inhibitors are not to be used in pregnancy: affect kidney maturation and development
 ## Which CV non-antihyperglycemic meds are indicated for my patient?
+### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca6df9c03e-f308-472b-a6da-34f70c16e66e2021_05_24_image.png?Expires=4775486182&Signature=A63B49av5l7RJGTLYbmgfptI3mjjQh917p25Ug030~4ySDl6FecF7~CHKDhc5vnqOV3AqmrdqZOuqaF-i2tVRJhsStqzQeXe7KjtBCQ8vWDI8-2-WlUp1OdtzBV~J0IvJ7FMwTLzR1RANkslwJMceIkfQ78Q4P3TQcJH4TixmZXvC8lUZJgwQ0heEyJ9JysLzZAEp9YMgj-D22JYbl2m3NftduRUcgbVyY9gTtCTc4zfgDTJ0aieCq3GkPlPI~iGpnLrOCjk6X9DjX-fbKnj2M73mANJORkq6t5H3OfAAwJ2lkgLO3lUrblV81u5f3M1RnPYJxNw8PzszE50Q3QI1g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ###
