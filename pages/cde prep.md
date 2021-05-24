@@ -68,4 +68,6 @@ title: CDE prep
 ## SGLT-2 inhibitor can increase the risk of DKA, though rare
 ## secondary prevention of CVA
 ### ![2021_05_17_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caba2e4947-809a-4f71-bfd2-453d7b52a0d12021_05_17_image.png?Expires=4774904700&Signature=HFD5STfyupe8sOpib5qQYqDQHBAi8KEhNVtrGiGdKvl48ts3fKyqyzUVymMcoRheYFhH8YC-csCljSamLBO8OpAzRwAboXj0IqhV~IqYmq7KIZG9azkJSrgUTYYI53wFAGBeG5e1Nmr7xhlNaNtVrgBAbF8578i6OHZUcxkJTyokprJzoF2d9x6VKZC71yzYktPgLysJgt5Jx8Q-zrnhZbWlMrL~9cLuk2mFJSc6bRsfKHTfK2Q~ZpYZeZqibt9FNWaHNT1V95G2zWP7JXIg8o2vHhKXKWPQcjDMLD9olh~X-svMmwEPTeElBQL16Z3NL-j3S7pWmG~a64I8z72R5Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-###
+## cardiovascular benefits of SGLT-2 inhibitors and their corresponding studies
+### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caaad0ce3d-2a18-4bf8-a62a-aa027119dcd62021_05_24_image.png?Expires=4775471746&Signature=HshHqgZ9uHwp6HAU9Mdvh11GXdL9cg2cTvWC76bkZIQYs1Ba1agF10ldzYf3qViKE8qKCCakYlntzW-JfFf-KsTC~SF2FPq0HNLvUCsuNemqvyTrW2LxhJWVyMiSq7OlACsr2ORSBLmncKJOWEhqNMyM5DFrvW9oIVoY8Brg1nn7t1MhsnZEqCjgmlXgn1P7gnxx-b0qq756vMRKWD8g1y9XZrkYiOe5i6b6iH11ntN1iRP9k074-k7QNcPGXKSO1KuuXi9mQOqOnOjS3aRKTFDgWWymWir55vO3IeuC6-58EMhctD8YTb72sLwVL924AfdcdDjcddNA~MnghxghiA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+##
