@@ -78,3 +78,4 @@ title: CDE prep
 ## insulin should be stored at 2-8 degrees
 ## convert mg/dl (usa readings) to mmol/L (canada readings): canadian readings x 18
 ## in children's DKA, hydrate via IV before giving insulin to decrease the chance of cerebral hemorrhaging.
+## All SGLT-2 inhibitors are not to be used in pregnancy: affect kidney maturation and development
