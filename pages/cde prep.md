@@ -67,6 +67,7 @@ title: CDE prep
 ### ![2021_05_16_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca75fdceb8-9dc3-4162-b13c-5c957197bc482021_05_16_image.png?Expires=4774808702&Signature=T9mT3bIdvcwIAvis7BjLTzNhgPR-GFkTSNVJuEKmUNu8ICqAL9Qs04yDf5I2hYu1dFHjeGYLsF7ow-LiSUBIVJ~sNE2Z6eRqmSJIGhYBB~s18GMfhbhJdNX0noYfX~8eiayDUT75jUBvCVmpkSmquZpJhKP9aCM0x5fGlPsdou356EvML6YSs7gJ2RtWAPweX3-tkhxfDStU99D8cTU3OphycgUJXzSkL89fGXZjq6KCGU6Ig2UW9F8kq-yIIPaY4KMYpTy4yizmf1Ch-C5Gde5k0AdSt7Dhzsuo414sV7QyGCZbiwFMx25fBjI0d1EjyWXjwyWPI1yeYxfl~3Mkzg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## SGLT-2 inhibitor can increase the risk of DKA, though rare
 ##
+## Practice set 2
 ## only GLP-1 analogs has primary prevention of CV benefits
 ## secondary prevention of CVA
 ### ![2021_05_17_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caba2e4947-809a-4f71-bfd2-453d7b52a0d12021_05_17_image.png?Expires=4774904700&Signature=HFD5STfyupe8sOpib5qQYqDQHBAi8KEhNVtrGiGdKvl48ts3fKyqyzUVymMcoRheYFhH8YC-csCljSamLBO8OpAzRwAboXj0IqhV~IqYmq7KIZG9azkJSrgUTYYI53wFAGBeG5e1Nmr7xhlNaNtVrgBAbF8578i6OHZUcxkJTyokprJzoF2d9x6VKZC71yzYktPgLysJgt5Jx8Q-zrnhZbWlMrL~9cLuk2mFJSc6bRsfKHTfK2Q~ZpYZeZqibt9FNWaHNT1V95G2zWP7JXIg8o2vHhKXKWPQcjDMLD9olh~X-svMmwEPTeElBQL16Z3NL-j3S7pWmG~a64I8z72R5Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
