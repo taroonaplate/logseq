@@ -97,4 +97,4 @@ title: CDE prep
 ## GFR limitation: what if GFR is 15mL/min? what medication is safe?
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca7c168972-7953-4ef5-a9d3-6a697c87d2662021_05_24_image.png?Expires=4775508160&Signature=R1pNAaSLY1ct9RAYEyzIL9Ic-qWaor0qpEmQImcd2wDM3but0vgnfuk4qlP2PBIUqaUrsAv-PZNzL7e1HduEq2TiKF0rJz3Qdfhg6gsFOsUAFrgRBcUGabsNepyL55RCVOE1QYn18Va4YVmd7OIUcecDdON-3Wd2wmf0JH0vr09xh4QRkDhGoQpdRJfaCGe69Liyst7mz1lDOASNWr5u7u~36Rdrn-lBEuFMnAOrruEGcWPv-Jg8BVzGCjnSzt9mwU-uqdrJDfK06jLPWq0ukg956ZHzoZn9gvcGD0vdmdHL5JH0ahVdbNuBD6d-dszqKWC6qD8p6fxJbLoLRf24Zg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## a typical lipid profile found in people with DM: high TG, low HDL, normal or high LDL
-##
+## commercial drivers should keep a blood sugar log of 6 months verifiable upon request
