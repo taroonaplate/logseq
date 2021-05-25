@@ -88,4 +88,6 @@ title: CDE prep
 ## how does weight loss improve DM control exactly?
 ### improves insulin sensitivity and decreases hepatic glucose output
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097cad885dfee-59de-4728-b14b-ed54c70e87412021_05_24_image.png?Expires=4775489883&Signature=D2GVfeV-kIpZwbLvQRgDNAFi70U0suuCI0hxBKYusuPo3Vaex2Xjr9ZosDNqyQITkYKWQGBnwBPuNyDsOFXEy4Msz8mmSXKwTVEgc~BghNTepYQE9Tj5MjoIRwtk7VRwsG8j5c4o4sSyYj-wm8KROXLz1k8opXpvgrQwDNhKs1R~FdNZTIt~GyDJonZ6egMuj2ruszzevssLBYjV8GLeKmYvilBYrYDmr6yNTRRnOgGsZnkf6EswX3BjtsYaA2w8FSCFzSJ-slYK87-QjTxU8G7F~Z2QT0eulM2wck4RPQVksWCsvhuC9dH0NbxkV9idqDgQvCE3QrNE83Z3EuDCMA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-##
+## insulin injection technique
+### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca1e443223-6525-4466-9a75-f0b6b7ccb4aa2021_05_24_image.png?Expires=4775507366&Signature=HepJ5hypJzt7az2~SrJc2Ue2M13XLhA~mH8SaqOYd7jzJ8ja52yZ7fSmIJn68vhv84uNIznjjfJ-CK2PTdzHmYmSRpKqtBo-E7eam9BXcbK9e~BgDtBtuw2gdQsEWRwnQZ0lA~w~8Tr9N-1WNqiMvJf1neQK8fe-zlgZqF06wJ6sxg~myCOYgmKRcLpLij2psMlfhHldXvadEXt-nLlKfLKHCuImrQLsf-BhayROEb83klqtPJ~f2iR3QoudK~5714FbTqBFKjhrveW4UyKvmFWA4MLlHM~R2olcnVq31BojHvlovbEmS6L-ks-pUh2Euopw0dltX5YcL4n4z6M0gQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+###
