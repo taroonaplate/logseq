@@ -105,4 +105,4 @@ title: CDE prep
 ## total pancreatectomy and islet cell autotransplantation surgical procedure in details
 ### https://www.youtube.com/watch?v=yJMmbZuVAJ0
 ### {{youtube https://www.youtube.com/watch?v=yJMmbZuVAJ0}}
-###
+### the difference in DM management is that the islet is allotransplantation (from a donor) as opposed to auto (from self)
