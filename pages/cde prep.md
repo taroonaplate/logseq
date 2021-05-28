@@ -102,4 +102,5 @@ title: CDE prep
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097cad2ce8682-11ba-4ca6-b644-f452917183012021_05_24_image.png?Expires=4775508619&Signature=L5lW4pVXa8HDi6zj014ar0nc-zbHy6eQH7gF5O9r8Dv46r5-EiPjS2YkZydVKCU-fSZA3RDcnKbDY3D9ZET0rP6n6Dvp70uhWc2XI9vXlFEIiVqCy4nRtQisZr7yWmoSUV9AZdWq6Qp~evZU1RwmwSTnEHRunUKNo~BX5mQhg0NuFYQTgjwrVlL41pITRsRJA5AFHdHC56OhORdP12Xy-KGZvcFVjkxchkgQAATb3HAoh~vW9If8OyDtb41bTsISxRu8qC-bWA3H17y4N0t4U4QMIzLaXLWQjAMFoFftAvqitB70n0LNYxW-UMbIDlZxswtRANNgE1o~ajB40qeV9g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## [[2020 pharmacology update]]
 ### Metformin was tested in UKPDS, which is the only outcome trial conducted in individuals with newly diagnosed T2DM
-##
+## total pancreatectomy and islet cell autotransplantation surgical procedure in details
+###
