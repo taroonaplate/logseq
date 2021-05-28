@@ -103,4 +103,6 @@ title: CDE prep
 ## [[2020 pharmacology update]]
 ### Metformin was tested in UKPDS, which is the only outcome trial conducted in individuals with newly diagnosed T2DM
 ## total pancreatectomy and islet cell autotransplantation surgical procedure in details
+### https://www.youtube.com/watch?v=yJMmbZuVAJ0
+### {{youtube https://www.youtube.com/watch?v=yJMmbZuVAJ0}}
 ###
