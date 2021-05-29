@@ -75,7 +75,7 @@ title: CDE prep
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caaad0ce3d-2a18-4bf8-a62a-aa027119dcd62021_05_24_image.png?Expires=4775471746&Signature=HshHqgZ9uHwp6HAU9Mdvh11GXdL9cg2cTvWC76bkZIQYs1Ba1agF10ldzYf3qViKE8qKCCakYlntzW-JfFf-KsTC~SF2FPq0HNLvUCsuNemqvyTrW2LxhJWVyMiSq7OlACsr2ORSBLmncKJOWEhqNMyM5DFrvW9oIVoY8Brg1nn7t1MhsnZEqCjgmlXgn1P7gnxx-b0qq756vMRKWD8g1y9XZrkYiOe5i6b6iH11ntN1iRP9k074-k7QNcPGXKSO1KuuXi9mQOqOnOjS3aRKTFDgWWymWir55vO3IeuC6-58EMhctD8YTb72sLwVL924AfdcdDjcddNA~MnghxghiA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097cae6086b78-377e-437e-b36d-ac92d3c431172021_05_24_image.png?Expires=4775508085&Signature=bzaT~mQzVZmzrmZvTNCVpOp59BbAdSSSZd-BKzyeGZVn4pKbIwuRBePIH5L9w4ecPtVgbQUtX5~ZU~YZSbO5sd7cscYZ7i9ku9xLOe1Kd7kL8MzAGClrOsD9Ka2~RJWPV9uRQDBsb9FH6rYrlrez2yvnxDxwdJwaBGbz-h43HvWRK4g-XAtjXyEG3hT5olM~L~kkDrfuY7EWT8g0frmqeFhlLDCkEo3t7cvRZ5A~s1O3LnA8h9H-KEv2ppnmC67QN72sphO7v-yABS7O3vwpBx1UufZyltvkFSK0VP4xT3rzF6-zMCbfX-9n3eAhUNBMnXXH0RrrNsJE60k~Syw0aQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ###
-## frequency of GLP-1 analogs: dutaglutide is the one that can be used once weekly
+## frequency of GLP-1 analogs: dulaglutide is the one that can be used once weekly
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097ca7096354e-d835-4aca-a217-ec095df0c1f32021_05_24_image.png?Expires=4775475347&Signature=TeFWJm7Pe2JBzE2POmZXm4xEg74ltBfafeSwqSkejvWHlAMX~navM2Zhzrn70~~mqNJyQbGTwEBeMBVJJCvJPS0Rswmw0~ZN7HbCqIrchDKmamW1Bn7FTteDTujyvqEfLrh84IcKFA7s2yMQA17X7o8C2DiSGpqjrjAA~DvkYvC4~iOI1RbDgnDeNmO~sueWu7jU-JOcG0DNR81LuTHj8I4HgoU05cbaKrbo4jYvcWiju4V1YsrAGWs6rwB~xbFsD8hGBNDhs7hYkMpYbs0yh0vkQbx9nn0BAR7LYi4n1F9epmfQIDljMzleClBUK~~RpXSByZjfvRuDZll4GoZZvQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## insulin should be stored at 2-8 degrees
 ## convert mg/dl (usa readings) to mmol/L (canada readings): canadian readings x 18
@@ -102,14 +102,3 @@ title: CDE prep
 ### ![2021_05_24_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097cad2ce8682-11ba-4ca6-b644-f452917183012021_05_24_image.png?Expires=4775508619&Signature=L5lW4pVXa8HDi6zj014ar0nc-zbHy6eQH7gF5O9r8Dv46r5-EiPjS2YkZydVKCU-fSZA3RDcnKbDY3D9ZET0rP6n6Dvp70uhWc2XI9vXlFEIiVqCy4nRtQisZr7yWmoSUV9AZdWq6Qp~evZU1RwmwSTnEHRunUKNo~BX5mQhg0NuFYQTgjwrVlL41pITRsRJA5AFHdHC56OhORdP12Xy-KGZvcFVjkxchkgQAATb3HAoh~vW9If8OyDtb41bTsISxRu8qC-bWA3H17y4N0t4U4QMIzLaXLWQjAMFoFftAvqitB70n0LNYxW-UMbIDlZxswtRANNgE1o~ajB40qeV9g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## [[2020 pharmacology update]]
 ### Metformin was tested in UKPDS, which is the only outcome trial conducted in individuals with newly diagnosed T2DM
-## total pancreatectomy and islet cell autotransplantation surgical procedure in details
-### https://www.youtube.com/watch?v=yJMmbZuVAJ0
-### {{youtube https://www.youtube.com/watch?v=yJMmbZuVAJ0}}
-### the difference in DM management is that the islet is allotransplantation (from a donor) as opposed to auto (from self)
-## Switching insulin
-### Switching from Lantus to Toujeo: no change
-### Switching from BID basal to Toujeo, reduce by 20%
-### ![2021_05_28_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caaff6520b-f290-46be-95e6-875eec7b86772021_05_28_image.png?Expires=4775846163&Signature=ESzzXoGu3M~1SC-7YWDe~F2dZJH1A3SqoIobAVXAIz2Gaj86bZJOFOFKLWP~O4TSPN~KHnqnVjaRgNM8OZUTbfpAkDw5fiq2pdYytooBw69hFlMiHcc4Hl-dJUUcyWl1XakI8dUgpOdlhchZq-cOdQZsqHofe-oZI1a10oDnsC0IN2KlIFaB83vRUqzJMhCW0O2CY~cd78RG~GTOeCf46yEvIf3oMg6YX85C-CXb5tpBqOp70zvnxAPCmsHQxKM6s6-7m7PqnMsM3a5f0pot4RGgO5nXg~905jiFML4x651wept8TYDH6VdEw9Ro1ciiDCpAQG4MqVvLQSZqvdcUjQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-### Switching other basal to Tresiba (once daily to once daily): no change
-### Switching from BID insulin and Toujeo to Tresiba: reduce by 20%
-##
