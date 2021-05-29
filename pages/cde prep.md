@@ -106,5 +106,8 @@ title: CDE prep
 ### https://www.youtube.com/watch?v=yJMmbZuVAJ0
 ### {{youtube https://www.youtube.com/watch?v=yJMmbZuVAJ0}}
 ### the difference in DM management is that the islet is allotransplantation (from a donor) as opposed to auto (from self)
-## ![2021_05_28_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caaff6520b-f290-46be-95e6-875eec7b86772021_05_28_image.png?Expires=4775846163&Signature=ESzzXoGu3M~1SC-7YWDe~F2dZJH1A3SqoIobAVXAIz2Gaj86bZJOFOFKLWP~O4TSPN~KHnqnVjaRgNM8OZUTbfpAkDw5fiq2pdYytooBw69hFlMiHcc4Hl-dJUUcyWl1XakI8dUgpOdlhchZq-cOdQZsqHofe-oZI1a10oDnsC0IN2KlIFaB83vRUqzJMhCW0O2CY~cd78RG~GTOeCf46yEvIf3oMg6YX85C-CXb5tpBqOp70zvnxAPCmsHQxKM6s6-7m7PqnMsM3a5f0pot4RGgO5nXg~905jiFML4x651wept8TYDH6VdEw9Ro1ciiDCpAQG4MqVvLQSZqvdcUjQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## Switching insulin
+### Switchin to Toujeo
+### ![2021_05_28_image.png](https://cdn.logseq.com/%2F19d8129d-f0d6-41c0-a53b-bbfce3d097caaff6520b-f290-46be-95e6-875eec7b86772021_05_28_image.png?Expires=4775846163&Signature=ESzzXoGu3M~1SC-7YWDe~F2dZJH1A3SqoIobAVXAIz2Gaj86bZJOFOFKLWP~O4TSPN~KHnqnVjaRgNM8OZUTbfpAkDw5fiq2pdYytooBw69hFlMiHcc4Hl-dJUUcyWl1XakI8dUgpOdlhchZq-cOdQZsqHofe-oZI1a10oDnsC0IN2KlIFaB83vRUqzJMhCW0O2CY~cd78RG~GTOeCf46yEvIf3oMg6YX85C-CXb5tpBqOp70zvnxAPCmsHQxKM6s6-7m7PqnMsM3a5f0pot4RGgO5nXg~905jiFML4x651wept8TYDH6VdEw9Ro1ciiDCpAQG4MqVvLQSZqvdcUjQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+### S
 ##
