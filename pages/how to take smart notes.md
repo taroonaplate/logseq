@@ -2,35 +2,23 @@
 title: how to take smart notes
 ---
 
-## Page 51:
-### look to establish a work flow that feed back into itself. Like a chemical reaction that is exergonic at the beginning, needing your energy and input, but once you get it going, it becomes endergonic and releases enough energy to sustain itself.
-
-## Page 54:
-### We tend to think we understand what we read- until we try to rewrite it with our own words.
-
-## Page 55:
-### The slip-box is not a collection of notes. Working with it is less about retrieving specific notes and more about being pointed to relevant facts and **generating insights by letting ideas mingle.** 
-
-### Its usability grows with its size, not just linearly but exponentially.
-
-### When we turn to the slip-box, its inner connectedness will not just provide us with isolated facts, but with **lines of developed thoughts. **Moreover, because of its inner complexity, a search through the slip-box will confront us with related notes we did not look for. (it grows on its own)
-
-### Our ability to learn __isolated__ facts is limited and probably decreases with age. But if facts are not isolated nor learned in an isolated fashion, but hang together in a network of ideas, or "latticework of mental models", it becomes easier to make sense of new information. 
-
-## Page 56:
-### It is not the slip-box or our brains along, but the **dynamic** between them that makes working with it so productive.
-
-## Page 59:
-### The mere-exposure effect: doing something many times gives us a false impression that we are good at it- completely independent of our actual performance. -> confuse familiarity with skill.
-
-## Page 87
-### Deliberate practice is necessary. It forces us to challenge and confront ourselves on what we think we know. The mistaken feeling of we've understood something changes when we try to explain or elaborate it in our own words. And that is when gaps are identified, and that is when we truly get to understand the concept more.
-
-### This challenge or deliberate practice seems to be a detour because it takes more time at the beginning. But not writing it down is a real waste of time, because it renders whatever we read was ineffecttual.
-
-### Consciously we would all make the same choice. But what really matters the most are the small and implicit decisions which are often made subconsciously.
-
-## Page 88
-### What schools and teachers do: breakdown learning tasks for students and sort them into modules for students, basically takes away the opportunity from them to build meaningful connections and elaborate things in their own languages.** It's like fast food: it is neither nutritious nor very enjoyable, it is just convenient.**
-
-### 想想也是，一个单元接着一个单元的设置很大程度上阻断了出于自身好奇心和求知欲的自主探索， 长此以往缺少练习或者压根就不需要自动的思维发散，学生就懒得主动思考去问问题，举一反三。想想我自己也是，从义务教务被扼杀的好奇心和批判能力，也是大学后期和踏入工作之后慢慢才又重新培养起来的。
+- Page 51:
+	- look to establish a work flow that feed back into itself. Like a chemical reaction that is exergonic at the beginning, needing your energy and input, but once you get it going, it becomes endergonic and releases enough energy to sustain itself.
+- Page 54:
+	- We tend to think we understand what we read- until we try to rewrite it with our own words.
+- Page 55:
+	- The slip-box is not a collection of notes. Working with it is less about retrieving specific notes and more about being pointed to relevant facts and **generating insights by letting ideas mingle.**
+	- Its usability grows with its size, not just linearly but exponentially.
+	- When we turn to the slip-box, its inner connectedness will not just provide us with isolated facts, but with **lines of developed thoughts. **Moreover, because of its inner complexity, a search through the slip-box will confront us with related notes we did not look for. (it grows on its own)
+	- Our ability to learn __isolated__ facts is limited and probably decreases with age. But if facts are not isolated nor learned in an isolated fashion, but hang together in a network of ideas, or "latticework of mental models", it becomes easier to make sense of new information.
+- Page 56:
+	- It is not the slip-box or our brains along, but the **dynamic** between them that makes working with it so productive.
+- Page 59:
+	- The mere-exposure effect: doing something many times gives us a false impression that we are good at it- completely independent of our actual performance. -> confuse familiarity with skill.
+- Page 87
+	- Deliberate practice is necessary. It forces us to challenge and confront ourselves on what we think we know. The mistaken feeling of we've understood something changes when we try to explain or elaborate it in our own words. And that is when gaps are identified, and that is when we truly get to understand the concept more.
+	- This challenge or deliberate practice seems to be a detour because it takes more time at the beginning. But not writing it down is a real waste of time, because it renders whatever we read was ineffecttual.
+	- Consciously we would all make the same choice. But what really matters the most are the small and implicit decisions which are often made subconsciously.
+- Page 88
+	- What schools and teachers do: breakdown learning tasks for students and sort them into modules for students, basically takes away the opportunity from them to build meaningful connections and elaborate things in their own languages.** It's like fast food: it is neither nutritious nor very enjoyable, it is just convenient.**
+	- 想想也是，一个单元接着一个单元的设置很大程度上阻断了出于自身好奇心和求知欲的自主探索， 长此以往缺少练习或者压根就不需要自动的思维发散，学生就懒得主动思考去问问题，举一反三。想想我自己也是，从义务教务被扼杀的好奇心和批判能力，也是大学后期和踏入工作之后慢慢才又重新培养起来的。

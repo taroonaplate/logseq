@@ -79,4 +79,5 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
-   :preferred_format :markdown}
+   :preferred_format :markdown
+   :markdown/version 2}

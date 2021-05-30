@@ -2,5 +2,5 @@
 title: preeclampsia
 ---
 
-## magnesium drip
-## no dietary restrictions
+- magnesium drip
+- no dietary restrictions
